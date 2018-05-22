@@ -20,5 +20,6 @@ function iLoveTheBeatles(s)
     s=s+1
   }while(s<15)
   
-  return s1[s-1]
+  s=s-1
+  return s1[s]
 }
