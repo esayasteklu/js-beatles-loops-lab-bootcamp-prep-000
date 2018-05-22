@@ -23,9 +23,15 @@ function iLoveTheBeatles(s)
     return s1
 }
 
-function theBeatlesPlay(m,i)
+function theBeatlesPlay(m,I)
 
 {
+  var k=[]
+  var i
   
+  for (i=0;i<m.length;m++)
+  {
+    
+  }
   
 }
