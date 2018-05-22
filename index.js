@@ -29,7 +29,7 @@ function theBeatlesPlay(m,I)
   var k=[]
   var i
   
-  for (i=0;i<m.length;m++)
+  for (i=0;i<m.length;i++)
   {
     k.push(m[i]+" plays "+ I[i])
    
