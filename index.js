@@ -31,9 +31,8 @@ function theBeatlesPlay(m,I)
   
   for (i=0;i<m.length;m++)
   {
-    k.push(m[i])
-    k.push("plays")
-    k.push(I[i])
+    k.push(m[i]+"plays"+ I[i])
+   
   }
   return k
 }
