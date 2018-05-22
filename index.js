@@ -16,7 +16,8 @@ function iLoveTheBeatles(s)
   var s1= new array()
   do
   {
-    s1.push()=
-  }while()
+    s1.push()="I love the Beatles!"
+    s=s+1
+  }while(s<15)
   
 }
