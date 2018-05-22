@@ -10,3 +10,13 @@ function johnLennonFacts(array)
   
   return array
 }
+
+function iLoveTheBeatles(s)
+{
+  var s1= new array()
+  do
+  {
+    s1.push()=
+  }while()
+  
+}
