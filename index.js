@@ -20,5 +20,5 @@ function iLoveTheBeatles(s)
     s=s+1
   }while(s<15)
   
-  return "I love the Beatles!"
+  return s1[s-1]
 }
