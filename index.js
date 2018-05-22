@@ -28,12 +28,11 @@ function theBeatlesPlay(m,I)
 {
   var k=[]
   var i
-  var string = m[0] + I[0]
-  k.push(string)
   
   for (i=0;i<m.length;m++)
   {
     k.push(m[i])
+    k.push("plays")
     k.push(I[i])
   }
   return k
